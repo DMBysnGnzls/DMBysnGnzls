@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dionnyl Maverick Bryson D.Gonzales 👋</h1>
-<img align="right" alt="Anime" width="300" src="https://pin.it/1ZKNxsD">
+<img align="right" alt="Anime" width="300" src="https://tenor.com/en-GB/view/gojo-domain-expansion-gif-19197982">
 
 I'm <i><b>Dionnyl Maverick Bryson D.Gonzales</i></b>, a mechatronic engineering student. I'm passionate about combining mechanical, electrical, and computer engineering to create innovative solutions. I thrive on hands-on learning, enjoy collaborating with peers, and am excited about the opportunities this field holds.
 
