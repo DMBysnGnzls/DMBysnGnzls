@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DMBysnGnzls
-Hi, I'm Dionnyl Maverick Bryson D. Gonzales, a mechatronic engineering student. I'm passionate about combining mechanical, electrical, and computer engineering to create innovative solutions. I thrive on hands-on learning, enjoy collaborating with peers, and am excited about the opportunities this field holds.
+I'm Dionnyl Maverick Bryson D. Gonzales, a mechatronic engineering student. I'm passionate about combining mechanical, electrical, and computer engineering to create innovative solutions. I thrive on hands-on learning, enjoy collaborating with peers, and am excited about the opportunities this field holds.
 
 - 👀 I’m interested in Basketball,Computer Games
 - 🌱 I’m currently learning at Batangas State University
