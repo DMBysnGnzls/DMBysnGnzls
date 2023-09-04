@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Dionnyl Maverick Bryson D.Gonzales 👋</h1>
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/z5yrWHMWfF8AAAAC/hacker-hack.gif">
+<img align="right" alt="Anime" width="300" src="https://pin.it/1ZKNxsD">
 
 I'm <i><b>Dionnyl Maverick Bryson D.Gonzales</i></b>, a mechatronic engineering student. I'm passionate about combining mechanical, electrical, and computer engineering to create innovative solutions. I thrive on hands-on learning, enjoy collaborating with peers, and am excited about the opportunities this field holds.
 
@@ -8,7 +8,7 @@ I'm <i><b>Dionnyl Maverick Bryson D.Gonzales</i></b>, a mechatronic engineering 
 
 ## About Me  
 - 🎓 Studying Mechatronics Engineering at [Batangas State University](https://batstate-u.edu.ph/)
-- 👀 I’m interested in Basketball,Computer Games
+- 👀 I’m interested in Basketball,Computer Games,Watching Anime
 - 💡 Exploring robotics, automation, and IoT projects
 - 🌱 Always eager to learn and grow as an engineer
 
