@@ -10,7 +10,7 @@ I'm <i><b>Dionnyl Maverick Bryson D.Gonzales</i></b>, a mechatronic engineering 
 - 🎓 Studying Mechatronics Engineering at [Batangas State University](https://batstate-u.edu.ph/)
 - 👀 I’m interested in Basketball,Computer Games,Watching Anime
 - 💡 Exploring robotics, automation, and IoT projects
-- 🌱 Always eager to learn and grow as an engineer
+- 🌱 Engineering is not about being the smartest or having all the answers; it's about having the curiosity to ask the right questions and the determination to find the solutions.
 
 <!-- Contact Information -->
 ## Contact Me
